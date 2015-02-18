@@ -1,0 +1,18 @@
+{
+    "appenders": [
+	{ 
+	    "type": "file",
+	    "absolute": true,
+	    "filename": "/var/log/node/tmp-test.log",
+	    "maxLogSize": 20480,
+	    "backups": 10
+	},
+	{ 
+	    "type": "console"
+	}
+
+    ],
+    "levels": {
+	"tests":  "TRACE"
+    }
+}
