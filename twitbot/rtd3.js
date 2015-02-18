@@ -5,6 +5,8 @@
 
 var nconf = require('nconf');
 var path = require('path');
+
+// replace log4js with winston due to hanging issue
 var log4js = require('log4js');
 var modulename = path.basename(process.argv[1]);
 log4js.configure('log4js_config.json', { reloadSecs: 300 });
