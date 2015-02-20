@@ -1,6 +1,0 @@
-[2015-02-20 14:38:05.282] [INFO] twitbot.js - calling doTwitterAction()
-[2015-02-20 14:38:05.282] [INFO] twitbot.js - doTwitterAction: Starting
-[2015-02-20 14:38:05.319] [INFO] twitbot.js - bot.mingle: starting
-[2015-02-20 14:38:05.324] [DEBUG] twitbot.js - doTwitterAction: setting next runtime
-[2015-02-20 14:38:05.564] [INFO] twitbot.js - # followers:194
-[2015-02-20 14:38:11.133] [DEBUG] twitbot.js - Mingle: followed @RohdeFineArt
