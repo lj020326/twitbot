@@ -1,7 +1,7 @@
-var twitter_auth = {};
-module.exports = twitter_auth;
+var config = {};
+module.exports = config;
 
-twitter_auth = {
+config.twitter_auth = {
     consumer_key: "key here",
     consumer_secret: "secret here",
     access_token: "token here",
