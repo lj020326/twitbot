@@ -1,0 +1,104 @@
+[2015-02-20 11:23:52.978] [INFO] rtd3.js - Starting
+[2015-02-20 11:23:52.982] [DEBUG] rtd3.js - probability_map=[object Object]
+[2015-02-20 11:23:52.982] [DEBUG] rtd3.js - qstring_arr=algorithmic+trading,python+pandas+trade,python+pandas+backtest,IBpy+IBJts,nodejs+cool or node.js+awesome,three.js or d3.js,python+cool,python+useful,python+awesome,ipython+sklearn,kalman+filter+strategy,quantitative+trading+chan,matlab+trading,data+visualiization or data+visualisation or datavis,quantopian+strategy,algotrading,elitetrader or nuclearphynance,quantnet or wealth-lab,arvix or ssrn or risk.net,sharpe+ratio,augemented+fuller,cointegrated+augmented,kelly+formula+optimization,mean+reversion,stationarity or cointegrated,logistic+regression,python+statsmodel,fpga+asic,vwap+trading,game+gamers or gaming,legos,ingenious or ingenuity or awesome,inspiration or inspirational or motivational,quote+of+the+day,coach+woodson,holmes+watson or holmes or watson,dungeons+dragons or D&D or AD&D,electrician+cool or beautiful+electrician,beautiful+photography
+[2015-02-20 11:23:52.982] [INFO] rtd3.js - calling doTwitterAction()
+[2015-02-20 11:23:52.983] [INFO] rtd3.js - doTwitterAction: Starting
+[2015-02-20 11:23:53.272] [INFO] rtd3.js - bot.retweet: qstring=quantnet or wealth-lab
+[2015-02-20 11:23:53.277] [DEBUG] rtd3.js - doTwitterAction: setting next runtime
+[2015-02-20 11:23:53.522] [INFO] rtd3.js - # followers:193
+[2015-02-20 11:23:53.524] [ERROR] rtd3.js - response status:undefined, data=undefined
+[2015-02-20 11:24:30.572] [INFO] rtd3.js - Starting
+[2015-02-20 11:24:30.576] [DEBUG] rtd3.js - probability_map=[object Object]
+[2015-02-20 11:24:30.576] [DEBUG] rtd3.js - qstring_arr=algorithmic+trading,python+pandas+trade,python+pandas+backtest,IBpy+IBJts,nodejs+cool or node.js+awesome,three.js or d3.js,python+cool,python+useful,python+awesome,ipython+sklearn,kalman+filter+strategy,quantitative+trading+chan,matlab+trading,data+visualiization or data+visualisation or datavis,quantopian+strategy,algotrading,elitetrader or nuclearphynance,quantnet or wealth-lab,arvix or ssrn or risk.net,sharpe+ratio,augemented+fuller,cointegrated+augmented,kelly+formula+optimization,mean+reversion,stationarity or cointegrated,logistic+regression,python+statsmodel,fpga+asic,vwap+trading,game+gamers or gaming,legos,ingenious or ingenuity or awesome,inspiration or inspirational or motivational,quote+of+the+day,coach+woodson,holmes+watson or holmes or watson,dungeons+dragons or D&D or AD&D,electrician+cool or beautiful+electrician,beautiful+photography
+[2015-02-20 11:24:30.576] [INFO] rtd3.js - calling doTwitterAction()
+[2015-02-20 11:24:30.576] [INFO] rtd3.js - doTwitterAction: Starting
+[2015-02-20 11:24:30.851] [INFO] rtd3.js - bot.retweet: qstring=algorithmic+trading
+[2015-02-20 11:24:30.858] [DEBUG] rtd3.js - doTwitterAction: setting next runtime
+[2015-02-20 11:24:31.100] [INFO] rtd3.js - # followers:193
+[2015-02-20 11:24:31.505] [DEBUG] rtd3.js - Retweet: retweeted response: 568808478401286140
+[2015-02-20 11:24:54.625] [INFO] rtd3.js - Starting
+[2015-02-20 11:24:54.631] [DEBUG] rtd3.js - probability_map=[object Object]
+[2015-02-20 11:24:54.631] [DEBUG] rtd3.js - qstring_arr=algorithmic+trading,python+pandas+trade,python+pandas+backtest,IBpy+IBJts,nodejs+cool or node.js+awesome,three.js or d3.js,python+cool,python+useful,python+awesome,ipython+sklearn,kalman+filter+strategy,quantitative+trading+chan,matlab+trading,data+visualiization or data+visualisation or datavis,quantopian+strategy,algotrading,elitetrader or nuclearphynance,quantnet or wealth-lab,arvix or ssrn or risk.net,sharpe+ratio,augemented+fuller,cointegrated+augmented,kelly+formula+optimization,mean+reversion,stationarity or cointegrated,logistic+regression,python+statsmodel,fpga+asic,vwap+trading,game+gamers or gaming,legos,ingenious or ingenuity or awesome,inspiration or inspirational or motivational,quote+of+the+day,coach+woodson,holmes+watson or holmes or watson,dungeons+dragons or D&D or AD&D,electrician+cool or beautiful+electrician,beautiful+photography
+[2015-02-20 11:24:54.632] [INFO] rtd3.js - calling doTwitterAction()
+[2015-02-20 11:24:54.632] [INFO] rtd3.js - doTwitterAction: Starting
+[2015-02-20 11:24:54.678] [INFO] rtd3.js - bot.retweet: qstring=electrician+cool or beautiful+electrician
+[2015-02-20 11:24:54.688] [DEBUG] rtd3.js - doTwitterAction: setting next runtime
+[2015-02-20 11:24:54.897] [INFO] rtd3.js - # followers:193
+[2015-02-20 11:24:54.917] [ERROR] rtd3.js - response status:undefined, data=undefined
+[2015-02-20 11:41:08.010] [INFO] rtd3.js - Starting
+[2015-02-20 11:41:08.014] [DEBUG] rtd3.js - probability_map=[object Object]
+[2015-02-20 11:41:08.014] [DEBUG] rtd3.js - qstring_arr=algorithmic+trading,python+pandas+trade,python+pandas+backtest,IBpy+IBJts,nodejs+cool or node.js+awesome,three.js or d3.js,python+cool,python+useful,python+awesome,ipython+sklearn,kalman+filter+strategy,quantitative+trading+chan,matlab+trading,data+visualiization or data+visualisation or datavis,quantopian+strategy,algotrading,elitetrader or nuclearphynance,quantnet or wealth-lab,arvix or ssrn or risk.net,sharpe+ratio,augemented+fuller,cointegrated+augmented,kelly+formula+optimization,mean+reversion,stationarity or cointegrated,logistic+regression,python+statsmodel,fpga+asic,vwap+trading,game+gamers or gaming,legos,ingenious or ingenuity or awesome,inspiration or inspirational or motivational,quote+of+the+day,coach+woodson,holmes+watson or holmes or watson,dungeons+dragons or D&D or AD&D,electrician+cool or beautiful+electrician,beautiful+photography
+[2015-02-20 11:41:08.015] [INFO] rtd3.js - calling doTwitterAction()
+[2015-02-20 11:41:08.015] [INFO] rtd3.js - doTwitterAction: Starting
+[2015-02-20 11:41:08.300] [INFO] rtd3.js - bot.retweet: qstring=python+statsmodel
+[2015-02-20 11:41:08.305] [DEBUG] rtd3.js - doTwitterAction: setting next runtime
+[2015-02-20 11:41:08.559] [INFO] rtd3.js - # followers:193
+[2015-02-20 11:41:08.562] [ERROR] rtd3.js - response status:undefined, data=undefined
+[2015-02-20 11:41:34.462] [INFO] rtd3.js - Starting
+[2015-02-20 11:41:34.467] [DEBUG] rtd3.js - probability_map=[object Object]
+[2015-02-20 11:41:34.468] [DEBUG] rtd3.js - qstring_arr=algorithmic+trading,python+pandas+trade,python+pandas+backtest,IBpy+IBJts,nodejs+cool or node.js+awesome,three.js or d3.js,python+cool,python+useful,python+awesome,ipython+sklearn,kalman+filter+strategy,quantitative+trading+chan,matlab+trading,data+visualiization or data+visualisation or datavis,quantopian+strategy,algotrading,elitetrader or nuclearphynance,quantnet or wealth-lab,arvix or ssrn or risk.net,sharpe+ratio,augemented+fuller,cointegrated+augmented,kelly+formula+optimization,mean+reversion,stationarity or cointegrated,logistic+regression,python+statsmodel,fpga+asic,vwap+trading,game+gamers or gaming,legos,ingenious or ingenuity or awesome,inspiration or inspirational or motivational,quote+of+the+day,coach+woodson,holmes+watson or holmes or watson,dungeons+dragons or D&D or AD&D,electrician+cool or beautiful+electrician,beautiful+photography
+[2015-02-20 11:41:34.468] [INFO] rtd3.js - calling doTwitterAction()
+[2015-02-20 11:41:34.469] [INFO] rtd3.js - doTwitterAction: Starting
+[2015-02-20 11:41:34.516] [INFO] rtd3.js - bot.mingle: starting
+[2015-02-20 11:41:34.522] [DEBUG] rtd3.js - doTwitterAction: setting next runtime
+[2015-02-20 11:41:34.726] [INFO] rtd3.js - # followers:193
+[2015-02-20 11:41:35.472] [DEBUG] rtd3.js - Mingle: followed @mhammaaagmailc2
+[2015-02-20 11:42:59.097] [INFO] rtd3.js - Starting
+[2015-02-20 11:42:59.101] [DEBUG] rtd3.js - probability_map=[object Object]
+[2015-02-20 11:42:59.101] [DEBUG] rtd3.js - qstring_arr=algorithmic+trading,python+pandas+trade,python+pandas+backtest,IBpy+IBJts,nodejs+cool or node.js+awesome,three.js or d3.js,python+cool,python+useful,python+awesome,ipython+sklearn,kalman+filter+strategy,quantitative+trading+chan,matlab+trading,data+visualiization or data+visualisation or datavis,quantopian+strategy,algotrading,elitetrader or nuclearphynance,quantnet or wealth-lab,arvix or ssrn or risk.net,sharpe+ratio,augemented+fuller,cointegrated+augmented,kelly+formula+optimization,mean+reversion,stationarity or cointegrated,logistic+regression,python+statsmodel,fpga+asic,vwap+trading,game+gamers or gaming,legos,ingenious or ingenuity or awesome,inspiration or inspirational or motivational,quote+of+the+day,coach+woodson,holmes+watson or holmes or watson,dungeons+dragons or D&D or AD&D,electrician+cool or beautiful+electrician,beautiful+photography
+[2015-02-20 11:42:59.101] [INFO] rtd3.js - calling doTwitterAction()
+[2015-02-20 11:42:59.102] [INFO] rtd3.js - doTwitterAction: Starting
+[2015-02-20 11:42:59.378] [INFO] rtd3.js - bot.favorite: qstring=coach+woodson
+[2015-02-20 11:42:59.382] [DEBUG] rtd3.js - doTwitterAction: setting next runtime
+[2015-02-20 11:42:59.610] [INFO] rtd3.js - # followers:193
+[2015-02-20 11:42:59.920] [DEBUG] rtd3.js - Favorite: favorited response: 568618080336617500
+[2015-02-20 11:44:04.283] [INFO] twitbot.js - Starting
+[2015-02-20 11:44:04.288] [DEBUG] twitbot.js - probability_map=[object Object]
+[2015-02-20 11:44:04.289] [DEBUG] twitbot.js - qstring_arr=algorithmic+trading,python+pandas+trade,python+pandas+backtest,IBpy+IBJts,nodejs+cool or node.js+awesome,three.js or d3.js,python+cool,python+useful,python+awesome,ipython+sklearn,kalman+filter+strategy,quantitative+trading+chan,matlab+trading,data+visualiization or data+visualisation or datavis,quantopian+strategy,algotrading,elitetrader or nuclearphynance,quantnet or wealth-lab,arvix or ssrn or risk.net,sharpe+ratio,augemented+fuller,cointegrated+augmented,kelly+formula+optimization,mean+reversion,stationarity or cointegrated,logistic+regression,python+statsmodel,fpga+asic,vwap+trading,game+gamers or gaming,legos,ingenious or ingenuity or awesome,inspiration or inspirational or motivational,quote+of+the+day,coach+woodson,holmes+watson or holmes or watson,dungeons+dragons or D&D or AD&D,electrician+cool or beautiful+electrician,beautiful+photography
+[2015-02-20 11:44:04.290] [INFO] twitbot.js - calling doTwitterAction()
+[2015-02-20 11:44:04.290] [INFO] twitbot.js - doTwitterAction: Starting
+[2015-02-20 11:44:04.338] [INFO] twitbot.js - bot.searchFollow: qstring=cointegrated+augmented
+[2015-02-20 11:44:04.348] [DEBUG] twitbot.js - doTwitterAction: setting next runtime
+[2015-02-20 11:44:04.555] [ERROR] twitbot.js - response status:undefined, data=undefined
+[2015-02-20 11:44:04.559] [INFO] twitbot.js - # followers:193
+[2015-02-20 11:44:29.886] [INFO] twitbot.js - Starting
+[2015-02-20 11:44:29.889] [DEBUG] twitbot.js - probability_map=[object Object]
+[2015-02-20 11:44:29.890] [DEBUG] twitbot.js - qstring_arr=algorithmic+trading,python+pandas+trade,python+pandas+backtest,IBpy+IBJts,nodejs+cool or node.js+awesome,three.js or d3.js,python+cool,python+useful,python+awesome,ipython+sklearn,kalman+filter+strategy,quantitative+trading+chan,matlab+trading,data+visualiization or data+visualisation or datavis,quantopian+strategy,algotrading,elitetrader or nuclearphynance,quantnet or wealth-lab,arvix or ssrn or risk.net,sharpe+ratio,augemented+fuller,cointegrated+augmented,kelly+formula+optimization,mean+reversion,stationarity or cointegrated,logistic+regression,python+statsmodel,fpga+asic,vwap+trading,game+gamers or gaming,legos,ingenious or ingenuity or awesome,inspiration or inspirational or motivational,quote+of+the+day,coach+woodson,holmes+watson or holmes or watson,dungeons+dragons or D&D or AD&D,electrician+cool or beautiful+electrician,beautiful+photography
+[2015-02-20 11:44:29.890] [INFO] twitbot.js - calling doTwitterAction()
+[2015-02-20 11:44:29.890] [INFO] twitbot.js - doTwitterAction: Starting
+[2015-02-20 11:44:30.200] [INFO] twitbot.js - bot.retweet: qstring=kelly+formula+optimization
+[2015-02-20 11:44:30.203] [DEBUG] twitbot.js - doTwitterAction: setting next runtime
+[2015-02-20 11:44:30.438] [INFO] twitbot.js - # followers:193
+[2015-02-20 11:44:30.453] [ERROR] twitbot.js - response status:undefined, data=undefined
+[2015-02-20 11:57:24.123] [INFO] twitbot.js - Starting
+[2015-02-20 11:57:24.127] [DEBUG] twitbot.js - probability_map=[object Object]
+[2015-02-20 11:57:24.127] [DEBUG] twitbot.js - qstring_arr=algorithmic+trading,python+pandas+trade,python+pandas+backtest,IBpy+IBJts,nodejs+cool or node.js+awesome,three.js or d3.js,python+cool,python+useful,python+awesome,ipython+sklearn,kalman+filter+strategy,quantitative+trading+chan,matlab+trading,data+visualiization or data+visualisation or datavis,quantopian+strategy,algotrading,elitetrader or nuclearphynance,quantnet or wealth-lab,arvix or ssrn or risk.net,sharpe+ratio,augemented+fuller,cointegrated+augmented,kelly+formula+optimization,mean+reversion,stationarity or cointegrated,logistic+regression,python+statsmodel,fpga+asic,vwap+trading,game+gamers or gaming,legos,ingenious or ingenuity or awesome,inspiration or inspirational or motivational,quote+of+the+day,coach+woodson,holmes+watson or holmes or watson,dungeons+dragons or D&D or AD&D,electrician+cool or beautiful+electrician,beautiful+photography
+[2015-02-20 11:57:24.127] [INFO] twitbot.js - calling doTwitterAction()
+[2015-02-20 11:57:24.127] [INFO] twitbot.js - doTwitterAction: Starting
+[2015-02-20 11:57:24.466] [INFO] twitbot.js - bot.mingle: starting
+[2015-02-20 11:57:24.468] [DEBUG] twitbot.js - doTwitterAction: setting next runtime
+[2015-02-20 11:57:24.699] [INFO] twitbot.js - # followers:193
+[2015-02-20 11:57:25.335] [DEBUG] twitbot.js - Mingle: followed @alexisgs637
+[2015-02-20 12:01:20.298] [INFO] twitbot.js - doTwitterAction: Starting
+[2015-02-20 12:01:20.309] [INFO] twitbot.js - bot.favorite: qstring=game+gamers or gaming
+[2015-02-20 12:01:20.313] [DEBUG] twitbot.js - doTwitterAction: setting next runtime
+[2015-02-20 12:01:20.539] [INFO] twitbot.js - # followers:193
+[2015-02-20 12:01:20.807] [DEBUG] twitbot.js - Favorite: favorited response: 568647307585044500
+[2015-02-20 12:09:55.087] [INFO] twitbot.js - Starting
+[2015-02-20 12:09:55.090] [DEBUG] twitbot.js - probability_map=[object Object]
+[2015-02-20 12:09:55.091] [DEBUG] twitbot.js - qstring_arr=algorithmic+trading,python+pandas+trade,python+pandas+backtest,IBpy+IBJts,nodejs+cool or node.js+awesome,three.js or d3.js,python+cool,python+useful,python+awesome,ipython+sklearn,kalman+filter+strategy,quantitative+trading+chan,matlab+trading,data+visualiization or data+visualisation or datavis,quantopian+strategy,algotrading,elitetrader or nuclearphynance,quantnet or wealth-lab,arvix or ssrn or risk.net,sharpe+ratio,augemented+fuller,cointegrated+augmented,kelly+formula+optimization,mean+reversion,stationarity or cointegrated,logistic+regression,python+statsmodel,fpga+asic,vwap+trading,game+gamers or gaming,legos,ingenious or ingenuity or awesome,inspiration or inspirational or motivational,quote+of+the+day,coach+woodson,holmes+watson or holmes or watson,dungeons+dragons or D&D or AD&D,electrician+cool or beautiful+electrician,beautiful+photography
+[2015-02-20 12:09:55.091] [INFO] twitbot.js - calling doTwitterAction()
+[2015-02-20 12:09:55.091] [INFO] twitbot.js - doTwitterAction: Starting
+[2015-02-20 12:09:55.432] [INFO] twitbot.js - bot.searchFollow: qstring=stationarity or cointegrated
+[2015-02-20 12:09:55.439] [DEBUG] twitbot.js - doTwitterAction: setting next runtime
+[2015-02-20 12:09:55.668] [INFO] twitbot.js - # followers:193
+[2015-02-20 12:09:55.690] [ERROR] twitbot.js - response status:undefined, data=undefined
+[2015-02-20 12:16:03.701] [INFO] twitbot.js - Starting
+[2015-02-20 12:16:03.705] [DEBUG] twitbot.js - probability_map=[object Object]
+[2015-02-20 12:16:03.705] [DEBUG] twitbot.js - qstring_arr=algorithmic+trading,python+pandas+trade,python+pandas+backtest,IBpy+IBJts,nodejs+cool or node.js+awesome,three.js or d3.js,python+cool,python+useful,python+awesome,ipython+sklearn,kalman+filter+strategy,quantitative+trading+chan,matlab+trading,data+visualiization or data+visualisation or datavis,quantopian+strategy,algotrading,elitetrader or nuclearphynance,quantnet or wealth-lab,arvix or ssrn or risk.net,sharpe+ratio,augemented+fuller,cointegrated+augmented,kelly+formula+optimization,mean+reversion,stationarity or cointegrated,logistic+regression,python+statsmodel,fpga+asic,vwap+trading,game+gamers or gaming,legos,ingenious or ingenuity or awesome,inspiration or inspirational or motivational,quote+of+the+day,coach+woodson,holmes+watson or holmes or watson,dungeons+dragons or D&D or AD&D,electrician+cool or beautiful+electrician,beautiful+photography
+[2015-02-20 12:16:03.705] [INFO] twitbot.js - calling doTwitterAction()
+[2015-02-20 12:16:03.705] [INFO] twitbot.js - doTwitterAction: Starting
+[2015-02-20 12:16:03.979] [INFO] twitbot.js - bot.mingle: starting
+[2015-02-20 12:16:03.981] [DEBUG] twitbot.js - doTwitterAction: setting next runtime
+[2015-02-20 12:16:04.245] [INFO] twitbot.js - # followers:193
+[2015-02-20 12:16:04.808] [DEBUG] twitbot.js - Mingle: followed @echo360
