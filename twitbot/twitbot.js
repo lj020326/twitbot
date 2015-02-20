@@ -5,10 +5,27 @@
 
 //require('look').start();
 var config_app = require('../config_app');
-var config_user = require('../config_user-lee');
-var Bot = require('./bot');
-
 var logger = config_app.logger;
+var user_config_file = "../config_user";
+
+var argv = require('yargs').argv;
+
+//console.dir(argv);
+var	help = 'twitbot -c user-config-file';
+
+if ((argv.h)||(argv.help)) {
+	logger.console(help);
+	process.exit(0);
+}
+
+if (argv.c) {
+	logger.info('Will source user configuration from '+argv.c);
+	user_config_file = argv.c;
+}
+
+var config_user = require(user_config_file);
+
+var Bot = require('./bot');
 var bot = new Bot(config_user.twitter_auth);
 
 logger.info('Starting');
