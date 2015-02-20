@@ -3,7 +3,7 @@
 	{ 
 	    "type": "file",
 	    "absolute": true,
-	    "filename": "/var/log/node/tmp-test.log",
+	    "filename": "./tmp-test.log",
 	    "maxLogSize": 20480,
 	    "backups": 10
 	},
@@ -13,6 +13,6 @@
 
     ],
     "levels": {
-	"tests":  "TRACE"
+		"tests":  "TRACE"
     }
 }
