@@ -5,7 +5,7 @@
 	    "absolute": true,
 	    "filename": "./tmp-test.log",
 	    "maxLogSize": 20480,
-	    "backups": 10
+	    "backups": 8
 	},
 	{ 
 	    "type": "console"
