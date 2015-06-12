@@ -1,0 +1,30 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "twitbot execute twit api commands",
+  "main": "twitbot/twitbot.js",
+  "dependencies": {
+    "twit": "^1.1.20",
+    "log4js": "^0.6.22",
+    "oauth": "^0.9.12",
+    "yargs": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lj020326/twitbot.git"
+  },
+  "keywords": [
+    "twitter",
+    "twitbot"
+  ],
+  "author": "LJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lj020326/twitbot/issues"
+  },
+  "homepage": "https://github.com/lj020326/twitbot#readme"
+}
